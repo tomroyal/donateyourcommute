@@ -1,0 +1,48 @@
+body {  
+  background-color: #554491;
+  color: #fff!important;
+}
+
+.dycheader {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.clcard {
+  margin-top: 20%;
+  display: none;
+}
+
+.standfirst {
+  margin-top: 20px;
+  font-size: 2.2rem;
+  text-align: center;
+  color: #fff;  
+}
+
+.cent {
+  text-align: center;
+}
+
+.m20top {
+  margin-top: 20px;
+}
+
+.dycbutton {
+  background-color: #fff;
+  border: #fff;
+  font-family: "Poppins", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif!important;
+  text-transform: none!important;
+  font-size: 1.6rem!important;
+}
+
+.footertext {
+  font-size: 1rem;
+}
+
+@media only screen and (min-width: 550px) {
+  .clcard {
+    display: block;
+  }
+
+}
